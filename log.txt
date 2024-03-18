@@ -1,0 +1,67 @@
+commit f51ee8a246f1feb1b0388ea96e7c0a9d9a1587ea
+Merge: 16a083d a26428d
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:45:56 2024 -0700
+
+    The merge conflict commit
+
+commit a26428db759a78246562b8bb6b17f0d1381120c1
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:40:31 2024 -0700
+
+    The first commit of rename_vars branch
+
+commit 16a083d0c446275fbd688af4916743b2cd335a43
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:37:11 2024 -0700
+
+    The first commit of if_replace branch
+
+commit ec2ddfaf3e4843d816ac483231691b6045e296ca
+Merge: 954de92 ddd54f3
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:21:10 2024 -0700
+
+    "Merge branch 'updating_messages'
+
+commit ddd54f33d12ce498fb6cdadba551e31cdf95ac5d
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:15:33 2024 -0700
+
+    Second commit in update_messages branch
+
+commit def7ae705e30ff0b9c9911906f85cb3f7e3708c8
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:11:04 2024 -0700
+
+    First commit in update_messages branch
+
+commit 954de92b581e4c14efce9c02deaa8b0c50db0cc7
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:05:24 2024 -0700
+
+    Second change in fourth line
+
+commit b34bfad00a1072266e0c64659286474cd4c09a9b
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 21:03:30 2024 -0700
+
+    First change in third line
+
+commit c59084739d0e32e4bc83a6dc7f76def34a123841
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 20:55:31 2024 -0700
+
+    Updated module name
+
+commit 6bd69b2e9744a2d3b65f56e66d3c656366956a63
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 20:49:45 2024 -0700
+
+    Exhanged codes of GridViewer with Maze.py
+
+commit d0be8b141c87051f0ae55d61c5a19f4488ea1730
+Author: Nivain <90031525@study.curtincollege.edu.au>
+Date:   Sun Mar 17 20:35:38 2024 -0700
+
+    Initial commit
